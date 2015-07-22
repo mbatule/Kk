@@ -19,7 +19,7 @@ public class MainActivity extends ActionBarActivity {
         buttonbdl.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this,"dsfjgj", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"bls bls", Toast.LENGTH_SHORT).show();
             }
         });
     }
